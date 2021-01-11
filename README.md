@@ -1,5 +1,4 @@
-I am a Japanese high school student.
-
+<b>I am a Japanese high school student.</b>
 
 <a href="https://twitter.com/AnonMusic7?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow Twitter@AnonMusic7</a>
 
