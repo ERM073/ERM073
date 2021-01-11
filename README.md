@@ -1,7 +1,7 @@
 I am a Japanese high school student.
 
 
-<a href="https://twitter.com/AnonMusic7?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @AnonMusic7</a>
+<a href="https://twitter.com/AnonMusic7?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow Twitter@AnonMusic7</a>
 
 
 I'm interested in cyber security.
