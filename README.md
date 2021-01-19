@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/AnonMusic7?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow Twitter@AnonMusic7</a>
 
-<a class="donate-link" href="paypal.me/AnonM7" target="_blank" rel="noopener noreferrer"><span class="donate-link__text">to donate</span></a>
+<a href="https://www.paypal.com/paypalme/AnonM7" target="_blank">to donate</a>
 
 I'm interested in cyber security.
 
